@@ -16,6 +16,7 @@ public class Main {
         Animals.add(new Animal());
         Animals.add(new Animal());
         Animals.add(new Animal());
+        Animals.add(new Animal());
 
         Gadget<String> gadget = new Gadget<>("Apple");
         Gadget<Integer> gadget2 = new Gadget<>(1000);
